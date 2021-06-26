@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://youn9jo.github.io/type_random_position",
+  "homepage": "https://youngjo.com/type_random_position",
   "eslintConfig": {
     "extends": [
       "react-app",
