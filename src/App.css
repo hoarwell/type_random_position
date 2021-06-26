@@ -22,6 +22,14 @@ span {
   height: 100px;
 }
 
+.init {
+  position: absolute;
+  top: 50%; 
+  right: 50%;
+  transform: translate(50%,-50%);
+  font-size: 2rem;
+}
+
 @keyframes pop {
   0% {
     transform: scale(0);
